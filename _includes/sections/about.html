@@ -8,24 +8,24 @@
     </div>
     <div class="row">
         <!-- first two icons -->
-        {% for icon in site.author.skill_icon1 %}
+        {% if site.author.skill_icon1 %}
         <div class="col-xs-2 wow fadeInLeft">
             <div class="team-member">
                 <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
+                    <i class="fa {{ site.author.skill_icon1.name }}"></i>
                 </div>
             </div>
         </div>
-        {% endfor %}
-        {% for icon in site.author.skill_icon2 %}
+        {% endif %}
+        {% if site.author.skill_icon2 %}
         <div class="col-xs-2 wow fadeInLeft">
             <div class="team-member">
                 <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
+                    <i class="fa {{ site.author.skill_icon2.name }}"></i>
                 </div>
             </div>
         </div>
-        {% endfor %} 
+        {% endif %} 
         <!-- avatar -->
         <div class="col-xs-4">
             <div class="team-member wow zoomIn">
@@ -55,24 +55,24 @@
             </div>
         </div>
         <!-- second two icons -->
-        {% for icon in site.author.skill_icon3 %}
+        {% if site.author.skill_icon3 %}
         <div class="col-xs-2 wow fadeInRight">
             <div class="team-member">
                 <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
+                    <i class="fa {{ site.author.skill_icon3.name }}"></i>
                 </div>
             </div>
         </div>
-        {% endfor %}
-        {% for icon in site.author.skill_icon4 %}
+        {% endif %}
+        {% if site.author.skill_icon4 %}
         <div class="col-xs-2 wow fadeInLeft">
             <div class="team-member">
                 <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
+                    <i class="fa {{ site.author.skill_icon4.name }}"></i>
                 </div>
             </div>
         </div>
-        {% endfor %}
+        {% endif %}
  
     </div>
     <div class="row">
