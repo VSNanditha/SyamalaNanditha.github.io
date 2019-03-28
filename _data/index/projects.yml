@@ -1,0 +1,10 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Gym Two-Agent Game Domains
+  i18n: jalpc
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/gym.png
+  desc: A two-agent game domain with goal and reward orientation developed using OpenAI Gym libraries.
+
