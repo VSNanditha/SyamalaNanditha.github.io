@@ -25,13 +25,13 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: icon-python
     - name: icon-python
-  skill_icon1:
+  skill_icon2:
     - name: icon-mysql-alt
     - name: icon-mysql-alt
-  skill_icon2:
+  skill_icon3:
     - name: icon-redhat
     - name: icon-redhat
-  skill_icon2:
+  skill_icon4:
     - name: icon-cassandra
     - name: icon-cassandra
   desc: Python Developer, Reinforcement Learning Research Assistant, Business Technology Analyst.  # Describe yourself.
