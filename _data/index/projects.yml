@@ -2,9 +2,57 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Gym Two-Agent Game Domains
-  i18n: jalpc
+  i18n: vsn
   gh_user: VSNanditha
   repo: VSNanditha
   img: /static/assets/img/landing/gym.png
   desc: A two-agent game domain with goal and reward orientation developed using OpenAI Gym libraries.
 
+- name: Tabular Q - Learning Techniques
+  i18n: vsn
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/rl.png
+  desc: Tabular Q - Learning combined with Reinforcement Learning Techniques to train multi-agent game domains.
+
+- name: NoSQL Databases - Performance Comparison
+  i18n: vsn
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/nosql.png
+  desc: Performance comparison between Cassandra and MongoDB for specific transactions over a data warehouse.
+
+- name: Oracle 12C – Distributed Database Setup Feasibility Check
+  i18n: vsn
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/oracle12c.png
+  desc: Setup instances of a University on different Oracle database instances and check the feasibility of real-time communication between the instances. 
+
+- name: Site Performance Check by Site Scraping 
+  i18n: vsn
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/sitescraper.png
+  desc: A web-scraping tool for specific site to perform automated user actions and collect data overtime, to check the load time performance of the site overtime. 
+
+- name: Online Car Rental System 
+  i18n: vsn
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/flask.png
+  desc: A simple online software solution for car rental enterprises which allows the users to perform actions like car bookings, cancellations, etc. using Python Flask and MySQL database.
+
+- name: Fuzzy Based Edge Detection of Grayscale Images
+  i18n: vsn
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/fuzzylogic.png
+  desc: An algorithm to detect edges of grayscale images using first derivative algorithms and fuzzy logic.
+ 
+- name: Payroll System 
+  i18n: vsn
+  gh_user: VSNanditha
+  repo: VSNanditha
+  img: /static/assets/img/landing/java.png
+  desc: A simple java applet application to keep record of employee details and helps us to calculate house rent allowance (hra), dearance allowance (da).
