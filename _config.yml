@@ -32,8 +32,8 @@ author:  # change following line to your infomation.
     - name: icon-redhat
     - name: icon-redhat
   skill_icon4:
-    - name: icon-cassandra
-    - name: icon-cassandra
+    - name: icon-docker
+    - name: icon-docker
   desc: Python Developer, Reinforcement Learning Research Assistant, Business Technology Analyst.  # Describe yourself.
 
 # comment
