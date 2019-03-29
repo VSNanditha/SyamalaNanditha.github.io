@@ -38,8 +38,8 @@
 
 - name: Online Car Rental System 
   i18n: vsn
-  gh_user: Car-Rental-Database-Project
-  repo: VSNanditha
+  gh_user: VSNanditha
+  repo: Car-Rental-Database-Project
   img: /static/assets/img/landing/flask.png
   desc: A simple online software solution for car rental enterprises which allows the users to perform actions like car bookings, cancellations, etc. using Python Flask and MySQL database.
 
