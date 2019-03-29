@@ -18,14 +18,14 @@
 - name: NoSQL Databases - Performance Comparison
   i18n: vsn
   gh_user: VSNanditha
-  repo: 
+  repo: warehouse
   img: /static/assets/img/landing/nosql.png
   desc: Performance comparison between Cassandra and MongoDB for specific transactions over a data warehouse.
 
 - name: Oracle 12C – Distributed Database Setup Feasibility Check
   i18n: vsn
   gh_user: VSNanditha
-  repo: warehouse
+  repo:
   img: /static/assets/img/landing/oracle12c.png
   desc: Setup instances of a University on different Oracle database instances and check the feasibility of real-time communication between the instances. 
 
