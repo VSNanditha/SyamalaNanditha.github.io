@@ -24,17 +24,11 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-python
-    - name: icon-python
+    - name: icon-database-alt
   skill_icon2:
-    - name: icon-mysql-alt
-    - name: icon-mysql-alt
-  skill_icon3:
     - name: icon-redhat
-    - name: icon-redhat
-  skill_icon4:
     - name: icon-docker
-    - name: icon-docker
-  desc: Python Developer, Reinforcement Learning Research Assistant, Business Technology Analyst.  # Describe yourself.
+ desc: Python Developer, Reinforcement Learning Research Assistant, Business Technology Analyst.  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
