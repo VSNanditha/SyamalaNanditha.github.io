@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, SQL, C++, C, MySQL, Linux, React Redux, Informatica, Terraform, MS Office Tools, MS Excel, GitFlow, Docker, Flask, HTML, Teradata, Oracle, MS Access, CSS, Javascript, NodeJS, Java, Cassandra, Ansible, Express
-percentage: 90, 90, 80, 75, 80, 90, 90, 85, 75,	85, 80,	90, 70,	60, 70,	60, 50,	50, 30,	50, 40,	40, 50,	40, 40
+aspects: Python & Flask, SQL & MySQL, C & C++, HTML5 & CSS, Linux, React Redux, Informatica, Terraform, MS Excel & MS Access & MS Office Tools, Git & GitHub & Git Flow, Docker, Teradata & Oracle, Javascript & NodeJS & Express, Java, Cassandra & MongoDB, Ansible 
+percentage: 95, 90, 75, 50, 90, 90, 85, 75, 75, 90, 70, 55, 40, 50, 40, 40 
